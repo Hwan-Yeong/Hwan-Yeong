@@ -1,34 +1,39 @@
-### Hi there 👋
+# 👋 Hi, I’m Hwanyeong (Joe)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=#9F81F7&height=150&section=header&text=HwanYeong&fontSize=20" />
+I am a robotics software engineer focused on **autonomous systems, embedded robotics, and sensor integration**.
 
-<!-- instagram
-<a href="링크"><img src="https://img.shields.io/badge/텍스트-색상코드?style=flat-square&logo=로고이름&logoColor=로고색"/></a> -->
+---
 
-<!--languages-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hwan-Yeong)](https://github.com/anuraghazra/github-readme-stats)
+## 🔧 What I Do
 
-<!--stats-->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hwan-Yeong)](https://github.com/anuraghazra/github-readme-stats)
+- **ROS2-based Robot Software** – sensor abstraction, error handling, and navigation modules  
+- **Sensor Manager & Error Manager** – robust runtime systems for mobile robots  
+- **SLAM / Obstacle Avoidance / Navigation** – real-world autonomy tasks  
+- **Embedded System Integration** – MCU ↔ AP communication, hardware interfacing
 
-<!--Velog-->
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dominico97)](https://velog.io/@dominico97)
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=#9F81F7&height=150&section=footer" />
+## 📌 Featured Projects
 
+### 🛠 airbot_modules  
+Core ROS2 modules for the AirBot mobile robot, including  
+sensor interfaces, error manager, and LiDAR processing.
 
+### 🚗 Seoul_Virtual_Autonomous_Driving_Challenge-MORAI  
+Autonomous driving challenge project using simulator environments.
 
-<!--
-**Hwan-Yeong/Hwan-Yeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🤖 simulation / Practice_Programmers / Project_Programmers  
+Various robotics and algorithm practice repositories.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Tech Stack
+
+C++ · Python · ROS2 · Nav2 · SLAM · LiDAR · ToF · IMU · MCU Interfaces · Linux
+
+---
+
+## 📫 Find Me
+
+- Notion: https://kiwi-soda-92f.notion.site/4dc869771bbe4985b4a3cd6d8ef6988f
+- LinkedIn: www.linkedin.com/in/hwanyeon-joe-772a5a254
